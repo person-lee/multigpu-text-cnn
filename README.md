@@ -1,2 +1,2 @@
 # multigpu-text-cnn
-train cnn model with multipy gpu 
+train cnn model with multi-gpu 
